@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "The Sad Ballad of Danny Boy",
+  "base_artist": "Floater",
+  "createdAt": "2026-02-17T10:02:25.417992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Sad Ballad of Danny Boy",
+      "artist": "Floater",
+      "has_synced": true,
+      "path": "select/01_The_Sad_Ballad_of_Danny_Boy_Floater.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Sad Ballad Of Danny Boy",
+      "artist": "Floater",
+      "has_synced": false,
+      "path": "select/pl_01_The_Sad_Ballad_Of_Danny_Boy_Floater.txt"
+    }
+  ]
+}
